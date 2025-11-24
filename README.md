@@ -1,5 +1,3 @@
 # portfolio
 My Portfolio
-index.html
-styles.css
-script.js
+Render index.html file content as a webpage in your browser through the following link --> https://tobiaslanzic.github.io/portfolio/
